@@ -1,0 +1,20 @@
+{
+  "name": "hyperledger-fabric-chaincode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananay-nag/hyperledger-fabric-chaincode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ananay-nag/hyperledger-fabric-chaincode/issues"
+  },
+  "homepage": "https://github.com/ananay-nag/hyperledger-fabric-chaincode#readme"
+}
